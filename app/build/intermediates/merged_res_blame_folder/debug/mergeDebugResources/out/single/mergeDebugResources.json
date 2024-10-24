@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "com.zebra.android.devdemo.app-debug-4:/drawable-hdpi_icon.png.flat",
+        "source": "com.zebra.android.devdemo.app-main-6:/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "com.zebra.android.devdemo.app-debug-4:/layout_main.xml.flat",
+        "source": "com.zebra.android.devdemo.app-main-6:/layout/main.xml"
+    },
+    {
+        "merged": "com.zebra.android.devdemo.app-debug-4:/layout_connection_builder.xml.flat",
+        "source": "com.zebra.android.devdemo.app-main-6:/layout/connection_builder.xml"
+    },
+    {
+        "merged": "com.zebra.android.devdemo.app-debug-4:/layout_formats_list_activity.xml.flat",
+        "source": "com.zebra.android.devdemo.app-main-6:/layout/formats_list_activity.xml"
+    },
+    {
+        "merged": "com.zebra.android.devdemo.app-debug-4:/layout_print_status_activity.xml.flat",
+        "source": "com.zebra.android.devdemo.app-main-6:/layout/print_status_activity.xml"
+    },
+    {
+        "merged": "com.zebra.android.devdemo.app-debug-4:/layout_multicast_discovery_parameters.xml.flat",
+        "source": "com.zebra.android.devdemo.app-main-6:/layout/multicast_discovery_parameters.xml"
+    },
+    {
+        "merged": "com.zebra.android.devdemo.app-debug-4:/layout_image_print_demo.xml.flat",
+        "source": "com.zebra.android.devdemo.app-main-6:/layout/image_print_demo.xml"
+    },
+    {
+        "merged": "com.zebra.android.devdemo.app-debug-4:/layout_subnet_search_discovery_parameters.xml.flat",
+        "source": "com.zebra.android.devdemo.app-main-6:/layout/subnet_search_discovery_parameters.xml"
+    },
+    {
+        "merged": "com.zebra.android.devdemo.app-debug-4:/layout_stored_format_variables.xml.flat",
+        "source": "com.zebra.android.devdemo.app-main-6:/layout/stored_format_variables.xml"
+    },
+    {
+        "merged": "com.zebra.android.devdemo.app-debug-4:/layout_connection_screen_with_status.xml.flat",
+        "source": "com.zebra.android.devdemo.app-main-6:/layout/connection_screen_with_status.xml"
+    },
+    {
+        "merged": "com.zebra.android.devdemo.app-debug-4:/layout_mag_card_demo.xml.flat",
+        "source": "com.zebra.android.devdemo.app-main-6:/layout/mag_card_demo.xml"
+    },
+    {
+        "merged": "com.zebra.android.devdemo.app-debug-4:/layout_sig_capture_demo.xml.flat",
+        "source": "com.zebra.android.devdemo.app-main-6:/layout/sig_capture_demo.xml"
+    },
+    {
+        "merged": "com.zebra.android.devdemo.app-debug-4:/layout_discovery_results.xml.flat",
+        "source": "com.zebra.android.devdemo.app-main-6:/layout/discovery_results.xml"
+    },
+    {
+        "merged": "com.zebra.android.devdemo.app-debug-4:/layout_status_channel_activity.xml.flat",
+        "source": "com.zebra.android.devdemo.app-main-6:/layout/status_channel_activity.xml"
+    },
+    {
+        "merged": "com.zebra.android.devdemo.app-debug-4:/layout_direct_broadcast_discovery_parameters.xml.flat",
+        "source": "com.zebra.android.devdemo.app-main-6:/layout/direct_broadcast_discovery_parameters.xml"
+    },
+    {
+        "merged": "com.zebra.android.devdemo.app-debug-4:/drawable-ldpi_icon.png.flat",
+        "source": "com.zebra.android.devdemo.app-main-6:/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "com.zebra.android.devdemo.app-debug-4:/layout_connection_screen.xml.flat",
+        "source": "com.zebra.android.devdemo.app-main-6:/layout/connection_screen.xml"
+    },
+    {
+        "merged": "com.zebra.android.devdemo.app-debug-4:/layout_stored_format_demo.xml.flat",
+        "source": "com.zebra.android.devdemo.app-main-6:/layout/stored_format_demo.xml"
+    },
+    {
+        "merged": "com.zebra.android.devdemo.app-debug-4:/drawable-mdpi_icon.png.flat",
+        "source": "com.zebra.android.devdemo.app-main-6:/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "com.zebra.android.devdemo.app-debug-4:/layout_discovery_methods.xml.flat",
+        "source": "com.zebra.android.devdemo.app-main-6:/layout/discovery_methods.xml"
+    }
+]

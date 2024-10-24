@@ -1,0 +1,111 @@
+# List of SDK dependencies of this app, this information is also included in an encrypted form in the APK.
+# For more information visit: https://d.android.com/r/tools/dependency-metadata
+
+library {
+  digests {
+    sha256: "\246<\331\244\312\374\327\n\033)\262\222\344\034\034\004/\035\215\325\245\373L\n\363RN\243\212z\025\034"
+  }
+}
+library {
+  digests {
+    sha256: "\2051M\025\343\366j\342\275\367+\272\364pG0x\276\215\026\320\217\230\330`\264X\200x\265\340g"
+  }
+}
+library {
+  digests {
+    sha256: "P\316\340\206\006\017\206#\214Q\3709\000)\225R\367o\200T\343\2144U|q9\267\342zlT"
+  }
+}
+library {
+  digests {
+    sha256: "j\272\233\"\020\220z=F\335=\312\307\202\2734$\030R\220F\215\020-R\a\353\334\227\226\251\005"
+  }
+}
+library {
+  digests {
+    sha256: "\026\217\331\256\001\034\357\314\372\242\252\252\271\332\2471\331@W\247f\300\324\237\'\005\275\r\037\367\372\270"
+  }
+}
+library {
+  digests {
+    sha256: "\320\356\361\005D\344\310\035\340\252\321|\302\246\'T8\240N\346Q\300W\375\005Isj!\362=h"
+  }
+}
+library {
+  digests {
+    sha256: "\247O\251n\034\240\fG\301\205\262\247\216\3315\251\350\262\350\353\262i\036\367\024\224\031\r\3043+Z"
+  }
+}
+library {
+  digests {
+    sha256: "Z\027,\2256\357\361\021^\377.\256\032\303\267\252aj\213S)\224\321-\032\006\255_\3276me"
+  }
+}
+library {
+  digests {
+    sha256: "g_`\275\021\250-H\0276Y\037\344\005LfG\037\245F=EafR\375qXW\222\272\207"
+  }
+}
+library {
+  digests {
+    sha256: "\233kz\310V\271\033\315\242\355\346\224\354\315&\316\373\v\360\260\233\211\361<\332\005\265\332_\366\214k"
+  }
+}
+library {
+  digests {
+    sha256: "\002\237&\315kg\300o\372\005p-BmG,\024\027\211\000\033\313\025\267&.\330l\206\216VC"
+  }
+}
+library {
+  digests {
+    sha256: "\270\254\n\004\333p\376\313\325\362-&WCH_\343/lb\221\252\202\274\306i\320\341\252&\351\302"
+  }
+}
+library {
+  digests {
+    sha256: "4\245\215m\200\245\aH0~gN\302{D\021\346So\321.x\276\304(\353.\344\232\0220\a"
+  }
+}
+library {
+  digests {
+    sha256: "sL\203VB\f\310\343\fy]d\375\037\315]D\352\235\2204*,\303&,QX\373\306\331\213"
+  }
+}
+library {
+  digests {
+    sha256: "\020l\221\210\361\307\374wuN\026\226r\004\036\232}\262\307\204K\032\321\325\322(\aa\036\023\231\341"
+  }
+}
+module_dependencies {
+  module_name: "base"
+  dependency_index: 0
+  dependency_index: 1
+  dependency_index: 2
+  dependency_index: 3
+  dependency_index: 4
+  dependency_index: 5
+  dependency_index: 6
+  dependency_index: 7
+  dependency_index: 8
+  dependency_index: 9
+  dependency_index: 10
+  dependency_index: 11
+  dependency_index: 12
+  dependency_index: 13
+  dependency_index: 14
+}
+repositories {
+  maven_repo {
+    url: "https://repo.maven.apache.org/maven2/"
+  }
+}
+repositories {
+  maven_repo {
+    url: "https://dl.google.com/dl/android/maven2/"
+  }
+}
+repositories {
+  maven_repo {
+    url: "https://repo.maven.apache.org/maven2/"
+  }
+}

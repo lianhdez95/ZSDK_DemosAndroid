@@ -1,0 +1,453 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:2:1-215:12
+INJECTED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:2:1-215:12
+INJECTED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:2:1-215:12
+INJECTED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:2:1-215:12
+	package
+		INJECTED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:11:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:12:22-71
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:13:5-86
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:13:22-83
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:14:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:15:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:16:5-65
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:16:22-62
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:17:5-66
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:17:22-63
+uses-permission#android.permission.FLASHLIGHT
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:18:5-69
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:18:22-66
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:19:2-76
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:19:19-73
+uses-feature#android.hardware.usb.host
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:21:2-83
+	android:required
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:21:57-81
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:21:16-56
+uses-feature#android.hardware.camera
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:24:19-67
+application
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:26:5-213:23
+INJECTED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:26:5-213:23
+	android:extractNativeLibs
+		INJECTED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml
+	android:label
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:28:9-41
+	android:icon
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:27:9-38
+	android:allowBackup
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:29:9-36
+activity#com.zebra.android.devdemo.LoadDevDemo
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:30:9-41:20
+	android:screenOrientation
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:34:13-51
+	android:label
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:33:13-45
+	android:exported
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:32:13-36
+	tools:ignore
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:35:13-42
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:31:13-65
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:39:27-74
+activity#com.zebra.android.devdemo.discovery.DiscoveryDemo
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:42:9-47:55
+	android:screenOrientation
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:46:13-49
+	android:label
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:45:13-43
+	android:windowSoftInputMode
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:47:13-52
+	android:configChanges
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:44:13-63
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:43:13-77
+activity#com.zebra.android.devdemo.discovery.BluetoothDiscovery
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:48:9-53:55
+	android:screenOrientation
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:52:13-49
+	android:label
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:51:13-48
+	android:windowSoftInputMode
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:53:13-52
+	android:configChanges
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:50:13-63
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:49:13-82
+activity#com.zebra.android.devdemo.discovery.MulticastDiscoveryResultList
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:54:9-59:55
+	android:screenOrientation
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:58:13-49
+	android:label
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:57:13-48
+	android:windowSoftInputMode
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:59:13-52
+	android:configChanges
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:56:13-63
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:55:13-92
+activity#com.zebra.android.devdemo.discovery.DirectedBroadcastResultList
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:60:9-65:55
+	android:screenOrientation
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:64:13-49
+	android:label
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:63:13-48
+	android:windowSoftInputMode
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:65:13-52
+	android:configChanges
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:62:13-63
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:61:13-91
+activity#com.zebra.android.devdemo.discovery.DirectedBroadcastParameters
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:66:9-71:55
+	android:screenOrientation
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:70:13-49
+	android:label
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:69:13-58
+	android:windowSoftInputMode
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:71:13-52
+	android:configChanges
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:68:13-63
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:67:13-91
+activity#com.zebra.android.devdemo.discovery.SubnetSearchResultList
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:72:9-77:55
+	android:screenOrientation
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:76:13-49
+	android:label
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:75:13-48
+	android:windowSoftInputMode
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:77:13-52
+	android:configChanges
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:74:13-63
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:73:13-86
+activity#com.zebra.android.devdemo.discovery.SubnetSearchParameters
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:78:9-83:55
+	android:screenOrientation
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:82:13-49
+	android:label
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:81:13-53
+	android:windowSoftInputMode
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:83:13-52
+	android:configChanges
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:80:13-63
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:79:13-86
+activity#com.zebra.android.devdemo.discovery.LocalBroadcastDiscoveryResultList
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:84:9-89:55
+	android:screenOrientation
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:88:13-49
+	android:label
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:87:13-48
+	android:windowSoftInputMode
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:89:13-52
+	android:configChanges
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:86:13-63
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:85:13-97
+activity#com.zebra.android.devdemo.discovery.FindPrintersDiscoveryResultList
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:90:9-95:55
+	android:screenOrientation
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:94:13-49
+	android:label
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:93:13-48
+	android:windowSoftInputMode
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:95:13-52
+	android:configChanges
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:92:13-63
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:91:13-95
+activity#com.zebra.android.devdemo.discovery.MulticastDiscoveryParameters
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:96:9-101:55
+	android:screenOrientation
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:100:13-49
+	android:label
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:99:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:101:13-52
+	android:configChanges
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:98:13-63
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:97:13-92
+activity#com.zebra.android.devdemo.imageprint.ImagePrintDemo
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:102:9-107:55
+	android:screenOrientation
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:106:13-49
+	android:label
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:105:13-45
+	android:windowSoftInputMode
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:107:13-52
+	android:configChanges
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:104:13-63
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:103:13-79
+activity#com.zebra.android.devdemo.magcard.MagCardDemo
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:108:9-113:55
+	android:screenOrientation
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:112:13-49
+	android:label
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:111:13-42
+	android:windowSoftInputMode
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:113:13-52
+	android:configChanges
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:110:13-63
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:109:13-73
+activity#com.zebra.android.devdemo.status.PrintStatusDemo
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:114:9-119:55
+	android:screenOrientation
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:118:13-49
+	android:label
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:117:13-48
+	android:windowSoftInputMode
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:119:13-52
+	android:configChanges
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:116:13-63
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:115:13-76
+activity#com.zebra.android.devdemo.smartcard.SmartCardDemo
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:120:9-125:55
+	android:screenOrientation
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:124:13-49
+	android:label
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:123:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:125:13-52
+	android:configChanges
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:122:13-63
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:121:13-77
+activity#com.zebra.android.devdemo.sigcapture.SigCaptureDemo
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:126:9-131:55
+	android:screenOrientation
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:130:13-49
+	android:label
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:129:13-51
+	android:windowSoftInputMode
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:131:13-52
+	android:configChanges
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:128:13-63
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:127:13-79
+activity#com.zebra.android.devdemo.sendfile.SendFileDemo
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:132:9-137:55
+	android:screenOrientation
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:136:13-49
+	android:label
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:135:13-43
+	android:windowSoftInputMode
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:137:13-52
+	android:configChanges
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:134:13-63
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:133:13-75
+activity#com.zebra.android.devdemo.storedformat.StoredFormatScreen
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:138:9-143:55
+	android:screenOrientation
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:142:13-49
+	android:label
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:141:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:143:13-52
+	android:configChanges
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:140:13-63
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:139:13-85
+activity#com.zebra.android.devdemo.storedformat.StoredFormatDemo
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:144:9-148:55
+	android:screenOrientation
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:147:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:148:13-52
+	android:configChanges
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:146:13-63
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:145:13-83
+activity#com.zebra.android.devdemo.storedformat.VariablesScreen
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:149:9-153:55
+	android:screenOrientation
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:152:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:153:13-52
+	android:configChanges
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:151:13-63
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:150:13-82
+activity#com.zebra.android.devdemo.connectivity.ConnectivityDemo
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:154:9-159:55
+	android:screenOrientation
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:158:13-49
+	android:label
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:157:13-46
+	android:windowSoftInputMode
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:159:13-52
+	android:configChanges
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:156:13-63
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:155:13-83
+activity#com.zebra.android.devdemo.status.PrinterStatusScreen
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:160:9-165:55
+	android:screenOrientation
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:164:13-49
+	android:label
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:163:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:165:13-52
+	android:configChanges
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:162:13-63
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:161:13-80
+activity#com.zebra.android.devdemo.listformats.ListFormatsScreen
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:166:9-171:55
+	android:screenOrientation
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:170:13-49
+	android:label
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:169:13-46
+	android:windowSoftInputMode
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:171:13-52
+	android:configChanges
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:168:13-63
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:167:13-83
+activity#com.zebra.android.devdemo.listformats.ListFormatsDemo
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:172:9-176:55
+	android:screenOrientation
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:175:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:176:13-52
+	android:configChanges
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:174:13-63
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:173:13-81
+activity#com.zebra.android.devdemo.statuschannel.StatusChannelDemo
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:177:9-182:55
+	android:screenOrientation
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:181:13-49
+	android:label
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:180:13-43
+	android:windowSoftInputMode
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:182:13-52
+	android:configChanges
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:179:13-63
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:178:13-85
+activity#com.zebra.android.devdemo.statuschannel.StatusChannelScreen
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:183:9-188:55
+	android:screenOrientation
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:187:13-49
+	android:label
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:186:13-48
+	android:windowSoftInputMode
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:188:13-52
+	android:configChanges
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:185:13-63
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:184:13-87
+activity#com.zebra.android.devdemo.multichannel.MultiChannelDemo
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:189:9-194:55
+	android:screenOrientation
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:193:13-49
+	android:label
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:192:13-41
+	android:windowSoftInputMode
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:194:13-52
+	android:configChanges
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:191:13-63
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:190:13-83
+activity#com.zebra.android.devdemo.multichannel.MultiChannelScreen
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:195:9-200:55
+	android:screenOrientation
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:199:13-49
+	android:label
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:198:13-46
+	android:windowSoftInputMode
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:200:13-52
+	android:configChanges
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:197:13-63
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:196:13-85
+activity#com.zebra.android.devdemo.connectionbuilder.ConnectionBuilderDemo
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:201:9-206:55
+	android:screenOrientation
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:205:13-49
+	android:label
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:204:13-52
+	android:windowSoftInputMode
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:206:13-52
+	android:configChanges
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:203:13-63
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:202:13-93
+activity#com.zebra.android.devdemo.receipt.ReceiptDemo
+ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:207:9-212:55
+	android:screenOrientation
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:211:13-49
+	android:label
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:210:13-41
+	android:windowSoftInputMode
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:212:13-52
+	android:configChanges
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:209:13-63
+	android:name
+		ADDED from /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/AndroidManifest.xml:208:13-73

@@ -1,0 +1,4 @@
+#Sat Oct 19 02:12:43 EDT 2024
+base.0=/Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

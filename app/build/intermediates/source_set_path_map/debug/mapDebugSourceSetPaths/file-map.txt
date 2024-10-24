@@ -1,0 +1,7 @@
+com.zebra.android.devdemo.app-pngs-0 /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/build/generated/res/pngs/debug
+com.zebra.android.devdemo.app-resValues-1 /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/build/generated/res/resValues/debug
+com.zebra.android.devdemo.app-mergeDebugResources-2 /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.zebra.android.devdemo.app-mergeDebugResources-3 /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.zebra.android.devdemo.app-debug-4 /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.zebra.android.devdemo.app-debug-5 /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/debug/res
+com.zebra.android.devdemo.app-main-6 /Users/Rene/Downloads/zebra-linkos-mpsdk-sep-2024/android/v2.14.5198/demos/androidstudio/ZSDK_DemosAndroid/app/src/main/res

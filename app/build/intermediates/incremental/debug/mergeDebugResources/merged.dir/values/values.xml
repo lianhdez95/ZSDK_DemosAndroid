@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="DEMO_APPS">
+        <item>Connectivity</item>
+        <item>Discovery</item>
+        <item>Image Print</item>
+        <item>List Formats</item>
+        <item>Mag Card</item>
+        <item>Printer Status</item>
+        <item>Smart Card</item>
+        <item>Signature Capture</item>
+        <item>Send File</item>
+        <item>Stored Format</item>
+        <item>Status Channel</item>
+        <item>Connection Builder</item>
+        <item>Receipt</item>
+        <item>Multichannel</item>
+        </string-array>
+    <string-array name="DISCODEMO_DISCO_METHODS">
+        <item>Bluetooth</item>
+        <item>Local Broadcast</item>
+        <item>Directed Broadcast</item>
+        <item>Multicast</item>
+        <item>Subnet Search</item>
+        <item>Find printers near me</item>
+    </string-array>
+    <string-array name="connection_builder_prefixes">
+        <item>No Prefix...</item>
+        <item>TCP_MULTI</item>
+        <item>TCP</item>
+        <item>TCP_STATUS</item>
+        <item>BT_MULTI</item>
+        <item>BT</item>
+        <item>BT_STATUS</item>
+    </string-array>
+    <color name="Red">#FF0000</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">ZSDK Developer Demos</string>
+    <string name="hello_world">Hello world!</string>
+</resources>
